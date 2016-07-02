@@ -11,7 +11,6 @@
 		B608B4791D2601BF00D6EC85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B608B4781D2601BF00D6EC85 /* Assets.xcassets */; };
 		B608B47C1D2601BF00D6EC85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B608B47A1D2601BF00D6EC85 /* LaunchScreen.storyboard */; };
 		B608B4841D260CEE00D6EC85 /* TodosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B608B4831D260CEE00D6EC85 /* TodosViewController.swift */; };
-		B6E21E681D2643AF0049BD31 /* UIFont+Add.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E21E671D2643AF0049BD31 /* UIFont+Add.swift */; };
 		C14C1B3A92808175C5929601 /* Pods_TodoList.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE18F7A9E1E99314795A99AE /* Pods_TodoList.framework */; };
 /* End PBXBuildFile section */
 
@@ -23,7 +22,6 @@
 		B608B47B1D2601BF00D6EC85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B608B47D1D2601BF00D6EC85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B608B4831D260CEE00D6EC85 /* TodosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodosViewController.swift; sourceTree = "<group>"; };
-		B6E21E671D2643AF0049BD31 /* UIFont+Add.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIFont+Add.swift"; sourceTree = "<group>"; };
 		D15F11B6F79E6799A30EE110 /* Pods-TodoList.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TodoList.release.xcconfig"; path = "Pods/Target Support Files/Pods-TodoList/Pods-TodoList.release.xcconfig"; sourceTree = "<group>"; };
 		FE18F7A9E1E99314795A99AE /* Pods_TodoList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TodoList.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -83,7 +81,6 @@
 				B608B47A1D2601BF00D6EC85 /* LaunchScreen.storyboard */,
 				B608B47D1D2601BF00D6EC85 /* Info.plist */,
 				B608B4831D260CEE00D6EC85 /* TodosViewController.swift */,
-				B6E21E671D2643AF0049BD31 /* UIFont+Add.swift */,
 			);
 			path = TodoList;
 			sourceTree = "<group>";
@@ -211,7 +208,6 @@
 			files = (
 				B608B4841D260CEE00D6EC85 /* TodosViewController.swift in Sources */,
 				B608B4721D2601BF00D6EC85 /* AppDelegate.swift in Sources */,
-				B6E21E681D2643AF0049BD31 /* UIFont+Add.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
