@@ -8,7 +8,7 @@ target 'TodoList' do
         :git => "https://github.com/gscalzo/FontAwesomeKit.git"
     pod 'LatoFont',
         :git => "https://github.com/gscalzo/LatoFont.git"
-    pod 'Cartography', '~> 0.1'
+    pod 'Cartography', '~> 0.6'
     pod 'MGSwipeTableCell', '~> 1.3.5'
 end
 
